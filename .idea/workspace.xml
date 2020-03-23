@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa26819e-39ef-4a98-8d0e-26baec077309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/registration/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/add_comment_to_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djgirls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djgirls/urls.py" afterDir="false" />
     </list>
@@ -41,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="djgirls" type="Python.DjangoServer" factoryName="Django server">
@@ -80,7 +86,8 @@
       <updated>1584496350827</updated>
       <workItem from="1584496352923" duration="9257000" />
       <workItem from="1584577292230" duration="19610000" />
-      <workItem from="1584663428305" duration="15006000" />
+      <workItem from="1584663428305" duration="15963000" />
+      <workItem from="1584923056971" duration="7937000" />
     </task>
     <servers />
   </component>
@@ -96,17 +103,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584521394178" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584521398547">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584928215529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584521398547" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584928215529" />
     <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1584597908131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584597908131" />
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1584693763877">
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1584931748242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584693763877" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584931748242" />
   </component>
 </project>
