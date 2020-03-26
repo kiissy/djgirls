@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa26819e-39ef-4a98-8d0e-26baec077309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/add_comment_to_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djgirls/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djgirls/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djgirls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djgirls/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -36,18 +36,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZHW9nr6Jiz3ly5faK7pF7GGcat" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backjoon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KSY\PycharmProjects\djgirls\djgirls" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="djgirls" type="Python.DjangoServer" factoryName="Django server">
@@ -87,22 +96,28 @@
       <workItem from="1584496352923" duration="9257000" />
       <workItem from="1584577292230" duration="19610000" />
       <workItem from="1584663428305" duration="15963000" />
-      <workItem from="1584923056971" duration="7937000" />
+      <workItem from="1584923056971" duration="11087000" />
+      <workItem from="1585008884038" duration="10883000" />
+      <workItem from="1585038437557" duration="1751000" />
+      <workItem from="1585099297761" duration="15598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1584521352021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584521352021" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584521394178">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585123087417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584521394178" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585123087417" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1584928215529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -111,9 +126,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584597908131" />
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1584931748242">
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1584949445152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584931748242" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584949445152" />
+    <state x="581" y="65" width="745" height="912" key="find.popup" timestamp="1585111293115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="65" width="745" height="912" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585111293115" />
   </component>
 </project>
