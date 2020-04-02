@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa26819e-39ef-4a98-8d0e-26baec077309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djgirls/quickstart/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djgirls/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djgirls/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djgirls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djgirls/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +38,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -100,6 +89,9 @@
       <workItem from="1585008884038" duration="10883000" />
       <workItem from="1585038437557" duration="1751000" />
       <workItem from="1585099297761" duration="15598000" />
+      <workItem from="1585181761354" duration="5059000" />
+      <workItem from="1585205566935" duration="4170000" />
+      <workItem from="1585796181900" duration="75000" />
     </task>
     <servers />
   </component>
@@ -114,14 +106,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584521352021" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585123087417">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585201067089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585123087417" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584928215529">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585201067089" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585201403007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584928215529" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585201403007" />
     <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1584597908131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
